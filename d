@@ -34,7 +34,7 @@ local function Shadow2px()
 	local NewImage = Image("http://www.roblox.com/asset/?id=5761498316");
 	NewImage.ScaleType = Enum.ScaleType.Slice;
 	NewImage.SliceCenter = Rect.new(17, 17, 283, 283);
-	NewImage.Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(30, 30);
+	NewImage.Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(50, 50);
 	NewImage.Position = -UDim2.fromOffset(15, 15);
 	NewImage.ImageColor3 = Color3.fromRGB(255, 20, 147);
 	return NewImage;
