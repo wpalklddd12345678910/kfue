@@ -40,7 +40,7 @@ local function Shadow2px()
 	return NewImage;
 end
 
-local Padding = 10;
+local Padding = 20;
 local DescriptionPadding = 10;
 local InstructionObjects = {};
 local TweenTime = 1;
